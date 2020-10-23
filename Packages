@@ -1,0 +1,13 @@
+Package: balkanrepo.glyphy
+Name: Glyphy
+Version: 3.0
+Architecture: iphoneos-arm
+Homepage: https://balkanrepo.io
+Depiction: https://balkanrepo.io/depiction/glyphy/index.html
+Filename: ./depiction/glyphy/balkanrepo.glyphy.deb
+Icon: https://balkanrepo.io/package/img/icon.png
+Description: Nice Dark Theme, Square icons? iOS 13+!
+Section: Themes
+Tags: compatible_min::ios13.0, compatible_max::ios14.0
+Author: balkanrepo <info@balkanrepo.io>
+Maintainer: balkanrepo <info@balkanrepo.io>
