@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://balkanrepo.io/img/logo.svg" alt="Directory Lister" width="20%">
+<img src="https://balkanrepo.io/logo.svg" alt="Directory Lister" width="20%">
 </p>
 
 <p align="center">
